@@ -1,3 +1,8 @@
+# Crie um programa que receba 3 valores do tipo inteiro
+# e retorne como resposta qual o maior e menor valor obtido
+
+# Resposta:
+
 a = int(input('Primeiro Valor...: '))
 b = int(input('Segundo Valor....: '))
 c = int(input('Terceiro Valor...: '))

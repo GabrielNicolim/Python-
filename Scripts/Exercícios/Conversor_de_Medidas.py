@@ -1,3 +1,7 @@
+# Crie um programa que receba uma distância em metros e retorne suas conversões (km, hm, dm, ...)
+
+# Resposta:
+
 dist = float(input('Ditância em metros: '))
 print('A mediade de {:.1f}m corresponde a'.format(dist))
 

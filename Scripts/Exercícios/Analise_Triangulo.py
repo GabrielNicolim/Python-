@@ -1,3 +1,9 @@
+# Crie um programa que receba os valores dos segmentos de um triângulo e responda se os segmentos formam um triângulo
+
+# Pesquise a fórmula :)
+
+# Resposta:
+
 print('-=' * 20)
 print('Analisador de Triângulos')
 print('-=' * 20)
