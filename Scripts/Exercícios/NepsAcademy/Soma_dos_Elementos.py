@@ -1,4 +1,4 @@
-# Exercício retirado de: https://neps.academy/lesson/84
+# https://neps.academy/lesson/84
 
 n = int(input())
 v = input().split()  # Armazena todos os valores adicionados na linha em lista

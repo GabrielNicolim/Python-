@@ -1,4 +1,4 @@
-# Exercício retirado de: https://neps.academy/lessonn
+# https://neps.academy/problem/59
 
 n = int(input())
 l = input().split()

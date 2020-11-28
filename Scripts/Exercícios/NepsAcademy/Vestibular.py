@@ -1,4 +1,4 @@
-# Exercício retirado de https://github.com/GabrielNicolim/Estudo_C/tree/master/Programas/Exerc%C3%ADcios_02
+# https://neps.academy/lesson/91
 
 n = int(input())
 correta = input()

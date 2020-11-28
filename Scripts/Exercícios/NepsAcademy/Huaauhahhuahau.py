@@ -1,3 +1,5 @@
+# https://neps.academy/problem/118
+
 risada = str(input())
 risada_ve = ''  # Risada contendo apenas vogais Esquerda - Direita
 risada_vd = ''  # Risada contendo apenas vogais Direita - Esquerda

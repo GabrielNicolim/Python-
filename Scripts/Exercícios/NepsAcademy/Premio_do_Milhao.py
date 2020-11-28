@@ -1,4 +1,4 @@
-# Recebe e armazena valores
+# https://neps.academy/lesson/78
 
 n = int(input())
 
